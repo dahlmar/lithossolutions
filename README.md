@@ -1,2 +1,0 @@
-# lithossolutions
-Project management website
